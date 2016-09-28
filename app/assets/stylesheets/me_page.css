@@ -1,0 +1,22 @@
+h1 {
+  color: black;
+}
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+.from {
+  color: white;
+  background-color: green;
+}
+.fun_fact{
+  font-weight: bold;
+  color: red;
+}
+.excited {
+  text-decoration: underline;
+  color: orange;
+}
